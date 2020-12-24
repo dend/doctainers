@@ -1,0 +1,1 @@
+docker run -it -p 80:1900 -v /D/kb/content:/hugotools/site/content -v /D/kb/config.toml:/hugotools/site/config.toml 6b349f72c498
